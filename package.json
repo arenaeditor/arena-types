@@ -1,0 +1,8 @@
+{
+  "name": "arena-types",
+  "version": "0.0.8",
+  "description": "Type definitions for Arena plugins",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "main": "index.js"
+}
